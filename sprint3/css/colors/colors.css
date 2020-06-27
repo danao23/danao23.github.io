@@ -1,0 +1,25 @@
+#colorDiv {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(250, 20, 200);
+}
+    
+    html {
+    background-image: url("/img/jb.jpg");
+   
+}
+
+    /*
+    2-es számrendszer: 01
+    3-as számrendszer: 012
+    10-es számrendszer: 0123456789
+    16-os számrendszer: 0123456789ABCDEF
+    
+    255 (10) = FF (16)
+    
+    (10) 255 = 2*100 + 5*10 + 5*1
+    (16) FF = F*16 + F*1 = 15*16 + 15*0 = 255
+    
+    rgb(255, 255, 255) = #FFFFFF
+    */
